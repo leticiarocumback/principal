@@ -1,6 +1,6 @@
 # My Website
 
-My website made by [Content Wind](https://content-wind.nuxt.space) theme.
+My website made by Content Wind theme.
 
 ## Setup
 
